@@ -1,0 +1,23 @@
+{
+  "originHash" : "c46e11dcab27b20c4ce2662c9aa88abd0f779313e261337b2ac77e81a4e1e6d8",
+  "pins" : [
+    {
+      "identity" : "deckui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/joshdholtz/DeckUI",
+      "state" : {
+        "revision" : "df66efe501cfefbd76233eb2524c55f5a720d81f"
+      }
+    },
+    {
+      "identity" : "splash",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/johnsundell/Splash.git",
+      "state" : {
+        "revision" : "7f4df436eb78fe64fe2c32c58006e9949fa28ad8",
+        "version" : "0.16.0"
+      }
+    }
+  ],
+  "version" : 3
+}
